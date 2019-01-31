@@ -1,0 +1,15 @@
+Our true homepage is welcomepage.php.
+
+If running on localhost instead of http://jaj.design visit localhost/jaj/ and access the file welcomepage.php to receive access to all other parts of site.
+
+Note: If running on local host certain features won’t work unless one adds the appropriate databases alongside for which we can’t provide. For this reason the only fully functional version of our site is online.
+
+The other relevant files include homepage.php (our homepage), loginpage.php (our login), and profile.php (view profile).
+
+Description: Aims at providing its user three core features: a homepage that features popular images and allows user(s) to vote on said images with either a like or dislike; an account function that allows users to create a profile on the website; and a submission page that laterally works as a welcome page for users to send in their own images to site administrators.
+
+Creators: Junxu Chen, Aislan Lally, Jie Weng
+
+Company: JAJ
+
+Contact Us: aislanlally@yahoo.com
